@@ -1,12 +1,7 @@
-### Hello Everyone, 👋
+![Screenshot 2022-02-08 130709](https://user-images.githubusercontent.com/79747007/152941494-e0b23db8-8257-413a-9a82-95a151d3fa6c.png)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... Flutter & Dart    
-- 🌱 I’m currently learning ... Flutter & Dart
-- 👯 I’m looking to collaborate on ... Flutter & Dart expert
-- 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [Mohammad Saad Bhaldar's LinkTree](https://linktr.ee/saadbhaldar1212)
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I am extrA SAD (SA_A_D)
-
+- [My LinkTree](https://linktr.ee/saadbhaldar1212)    
+<br><br>
+-My name is Mohammad Saad Hasan Bhaldar <br>
+-I have Elementary Proficiency in German Language <br>
+-I am a Student and Learning Flutter Development with my College Studies <br>
