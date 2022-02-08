@@ -4,6 +4,13 @@
 <br>
 -My name is Mohammad Saad Hasan Bhaldar <br>
 -I am a Student <br>
+-Studying at Indira College of Commerce & Science, Pune <br>
 -I have Elementary Proficiency in German Language <br>
--
+-I like to play Video Games
+-My aim is to Build a strong Career
+
+
+
+
+
 
