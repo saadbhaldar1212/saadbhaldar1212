@@ -1,4 +1,4 @@
-![Screenshot 2022-02-08 130709](https://user-images.githubusercontent.com/79747007/152941494-e0b23db8-8257-413a-9a82-95a151d3fa6c.png)
+![1664855221705](https://user-images.githubusercontent.com/79747007/197045260-b83bb8f4-d995-4d40-b650-f6c1e54a3d2b.jpg)
 
 - [My LinkTree](https://linktr.ee/saadbhaldar1212)
 <br>
